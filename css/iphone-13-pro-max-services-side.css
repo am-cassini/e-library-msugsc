@@ -1,0 +1,234 @@
+/* screen - iphone-13-pro-max-services-side */
+
+.iphone-13-pro-max-services-side {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-services-side .overlap-group2 {
+  height: 926px;
+  margin-left: -46px;
+  position: relative;
+  width: 476px;
+}
+
+.iphone-13-pro-max-services-side .overlap-group {
+  height: 240px;
+  left: 34px;
+  position: absolute;
+  top: 170px;
+  width: 440px;
+}
+
+.iphone-13-pro-max-services-side .rectangle {
+  height: 240px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.iphone-13-pro-max-services-side .rectangle-1973 {
+  background-color: var(--black);
+  height: 224px;
+  left: 0;
+  opacity: 0.55;
+  position: absolute;
+  top: 16px;
+  width: 440px;
+}
+
+.iphone-13-pro-max-services-side .mindanao-state-unive {
+  color: var(--red-berry);
+  font-family: var(--font-family-berkshire_swash);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 254px;
+  width: 365px;
+}
+
+.iphone-13-pro-max-services-side .the-official-e-libra {
+  height: 111px;
+  left: 85px;
+  position: absolute;
+  top: 396px;
+  width: 351px;
+}
+
+.iphone-13-pro-max-services-side .rectangle-1973-1 {
+  background-color: var(--seashell);
+  height: 926px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.iphone-13-pro-max-services-side .rectangle-1971 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-services-side .place {
+  cursor: pointer;
+  left: 231px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 200px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-services-side .place:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .rectangle-1971-1 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 241px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-services-side .digital-library-resources {
+  cursor: pointer;
+  left: 142px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  transition: all 0.2s ease;
+  width: 236px;
+}
+
+.iphone-13-pro-max-services-side .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .rectangle-1971-2 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 306px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-services-side .opac {
+  cursor: pointer;
+  left: 231px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-services-side .opac:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .rectangle-1971-3 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 371px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-services-side .services {
+  cursor: pointer;
+  left: 214px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 395px;
+  transition: all 0.2s ease;
+  width: 93px;
+}
+
+.iphone-13-pro-max-services-side .services:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .rectangle-1971-4 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-services-side .about-us {
+  cursor: pointer;
+  left: 216px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 457px;
+  transition: all 0.2s ease;
+  width: 89px;
+}
+
+.iphone-13-pro-max-services-side .about-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-56@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 474px;
+  padding: 0 162px;
+  position: absolute;
+  top: 498px;
+}
+
+.iphone-13-pro-max-services-side .contact-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 41px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.iphone-13-pro-max-services-side .contact-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-services-side .rectangle-1 {
+  height: 215px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 215px;
+}
+
+.iphone-13-pro-max-services-side .rectangle-2 {
+  cursor: pointer;
+  height: 24px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 31px;
+}

@@ -1,0 +1,1234 @@
+/* screen - desktop-library-staffs */
+
+.desktop-library-staffs {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1618px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-library-staffs .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 436px;
+  min-width: 101px;
+  position: fixed;
+  top: -13px;
+  z-index: 5;
+}
+
+.desktop-library-staffs .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-20@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 99px;
+  padding: 19.6px 15.8px;
+}
+
+.desktop-library-staffs .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 41px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.desktop-library-staffs .place:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .opac {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 772px;
+  min-width: 99px;
+  position: fixed;
+  top: -13px;
+  z-index: 6;
+}
+
+.desktop-library-staffs .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 97px;
+  padding: 30px 20.2px;
+}
+
+.desktop-library-staffs .opac-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.desktop-library-staffs .opac-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 1007px;
+  min-width: 132px;
+  position: fixed;
+  top: -13px;
+  z-index: 8;
+}
+
+.desktop-library-staffs .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 30.3px 11.7px;
+}
+
+.desktop-library-staffs .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.desktop-library-staffs .about-us:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .contact-us {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 1137px;
+  min-width: 142px;
+  position: fixed;
+  top: -13px;
+  z-index: 9;
+}
+
+.desktop-library-staffs .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-5@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 30.3px 12.9px;
+}
+
+.desktop-library-staffs .contact-us-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.desktop-library-staffs .contact-us-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .opac-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 869px;
+  min-width: 140px;
+  position: fixed;
+  top: -13px;
+  z-index: 10;
+}
+
+.desktop-library-staffs .overlap-group5 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-6@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 138px;
+  padding: 30px 22px;
+}
+
+.desktop-library-staffs .services-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-library-staffs .services-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .digital-library {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 97px;
+  left: 535px;
+  min-width: 239px;
+  position: fixed;
+  top: -2px;
+  z-index: 7;
+}
+
+.desktop-library-staffs .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-9@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  min-width: 237px;
+  padding: 38.0px 12px;
+}
+
+.desktop-library-staffs .digital-library-resources {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 21px;
+  transition: all 0.2s ease;
+  width: 207px;
+}
+
+.desktop-library-staffs .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-staffs .rectangle-1972 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 97px;
+  left: -199px;
+  position: fixed;
+  top: -1px;
+  width: 1802px;
+  z-index: 4;
+}
+
+.desktop-library-staffs .msu-logo-1 {
+  cursor: pointer;
+  height: 81px;
+  left: 190px;
+  object-fit: cover;
+  position: fixed;
+  top: 7px;
+  width: 81px;
+  z-index: 11;
+}
+
+.desktop-library-staffs .overlap-group7 {
+  height: 437px;
+  margin-top: 99px;
+  position: relative;
+  width: 1730px;
+  z-index: 1;
+}
+
+.desktop-library-staffs .group-85 {
+  background-image: url(../img/rectangle-20@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 437px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1730px;
+}
+
+.desktop-library-staffs .rectangle-1974 {
+  height: 437px;
+  width: 1730px;
+}
+
+.desktop-library-staffs .library-staffs {
+  height: 63px;
+  left: 668px;
+  position: absolute;
+  top: 188px;
+  width: 417px;
+}
+
+.desktop-library-staffs .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 556px;
+  margin-right: 175.0px;
+  margin-top: 47px;
+  min-width: 787px;
+  z-index: 2;
+}
+
+.desktop-library-staffs .rectangle {
+  cursor: pointer;
+  height: 29px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.desktop-library-staffs .rectangle:hover {
+  background-color: #000000
+}
+
+.desktop-library-staffs .x74804-free-organizat {
+  align-self: flex-end;
+  height: 553px;
+  margin-left: 191px;
+  width: 557px;
+}
+
+.desktop-library-staffs .overlap-group6 {
+  background-image: url(../img/rectangle-89@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 509px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  position: relative;
+  width: 1875px;
+  z-index: 3;
+}
+
+.desktop-library-staffs .rectangle-1 {
+  height: 16px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 20px;
+}
+
+.desktop-library-staffs .rectangle-2 {
+  height: 18px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 19px;
+}
+
+.desktop-library-staffs .overlap-group8 {
+  height: 468px;
+  left: 397px;
+  position: absolute;
+  top: 0;
+  width: 1422px;
+}
+
+.desktop-library-staffs .rectangle-3 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 1048px;
+}
+
+.desktop-library-staffs .rectangle-4 {
+  height: 468px;
+  left: 921px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.desktop-library-staffs .virtual-learning-environment {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.desktop-library-staffs .virtual-learning-environment:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .faculty-portal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.desktop-library-staffs .faculty-portal:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .student-portal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.desktop-library-staffs .student-portal:hover {
+  color: #060404
+}
+
+.desktop-library-staffs .e-journal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.desktop-library-staffs .e-journal:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .quick-links {
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.desktop-library-staffs .rectangle-5 {
+  cursor: pointer;
+  height: 36px;
+  left: 1187px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-library-staffs .rectangle-5:hover {
+  background-color: #000000
+}
+
+.desktop-library-staffs .rectangle-6 {
+  height: 19px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 19px;
+}
+
+.desktop-library-staffs .rectangle-7 {
+  cursor: pointer;
+  height: 36px;
+  left: 1239px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-library-staffs .rectangle-7:hover {
+  background-color: #000000
+}
+
+.desktop-library-staffs .copyright-2022-min {
+  left: 673px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 412px;
+  white-space: nowrap;
+  width: 556px;
+}
+
+.desktop-library-staffs .msu-library-portal {
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.desktop-library-staffs .location-msu-campu {
+  left: 728px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 267px;
+  width: 304px;
+}
+
+.desktop-library-staffs .campus-library-directory {
+  left: 726px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.desktop-library-staffs .campuslibrarianmsugensaneduph {
+  left: 760px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.desktop-library-staffs .text-10 {
+  left: 760px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+  width: 270px;
+}
+
+.desktop-library-staffs .monday-friday-800-am-500-pm {
+  left: 761px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.desktop-library-staffs .connect {
+  left: 1189px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 263px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.desktop-library-staffs .msu-gensan-library {
+  left: 728px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.desktop-library-staffs .msu-marawi {
+  cursor: pointer;
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.desktop-library-staffs .msu-marawi:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-iit {
+  cursor: pointer;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 117px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.desktop-library-staffs .msu-iit:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-naawan {
+  cursor: pointer;
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.desktop-library-staffs .msu-naawan:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-gen-san {
+  cursor: pointer;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.desktop-library-staffs .msu-gen-san:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-maguindanao {
+  cursor: pointer;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 231px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.desktop-library-staffs .msu-maguindanao:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-tawi-tawi {
+  cursor: pointer;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 270px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.desktop-library-staffs .msu-tawi-tawi:hover {
+  color: #000000
+}
+
+.desktop-library-staffs .msu-buug {
+  cursor: pointer;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 309px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.desktop-library-staffs .msu-buug:hover {
+  color: #000000
+}
+/* screen - iphone-13-pro-max-staffs */
+
+.iphone-13-pro-max-staffs {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2104px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-1977 {
+  background-color: var(--white);
+  height: 104px;
+  left: -200px;
+  position: fixed;
+  top: 0;
+  width: 793px;
+  z-index: 5;
+}
+
+.iphone-13-pro-max-staffs .frame {
+  cursor: pointer;
+  height: 81px;
+  left: 177px;
+  position: fixed;
+  top: 13px;
+  width: 81px;
+  z-index: 7;
+}
+
+.iphone-13-pro-max-staffs .rectangle-8 {
+  cursor: pointer;
+  height: 18px;
+  left: 359px;
+  object-fit: cover;
+  position: fixed;
+  top: 47px;
+  width: 26px;
+  z-index: 6;
+}
+
+.iphone-13-pro-max-staffs .overlap-group1-1 {
+  height: 240px;
+  margin-left: -12px;
+  margin-top: 88px;
+  position: relative;
+  width: 440px;
+  z-index: 1;
+}
+
+.iphone-13-pro-max-staffs .group-44 {
+  display: flex;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-13-pro-max-staffs .group-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 440px;
+}
+
+.iphone-13-pro-max-staffs .overlap-group-1 {
+  height: 240px;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-9 {
+  height: 240px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-1973 {
+  background-color: var(--black);
+  height: 224px;
+  left: 0;
+  opacity: 0.55;
+  position: absolute;
+  top: 16px;
+  width: 440px;
+}
+
+.iphone-13-pro-max-staffs .library-staffs-1 {
+  height: 26px;
+  left: 138px;
+  position: absolute;
+  top: 110px;
+  width: 167px;
+}
+
+.iphone-13-pro-max-staffs .group-69 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-left: 28px;
+  margin-top: 20px;
+  width: 45px;
+  z-index: 2;
+}
+
+.iphone-13-pro-max-staffs .rectangle-10 {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 11px;
+  margin-top: 10px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 21px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-10:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-staffs .x74804-free-organizat-1 {
+  align-self: center;
+  height: 479px;
+  margin-left: 4.0px;
+  margin-top: 83px;
+  object-fit: cover;
+  width: 396px;
+  z-index: 4;
+}
+
+.iphone-13-pro-max-staffs .overlap-group2-1 {
+  height: 1049px;
+  margin-top: 106px;
+  position: relative;
+  width: 908px;
+  z-index: 3;
+}
+
+.iphone-13-pro-max-staffs .rectangle-11 {
+  height: 1049px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.iphone-13-pro-max-staffs .group-72 {
+  display: flex;
+  flex-direction: column;
+  height: 244px;
+  left: 52px;
+  position: absolute;
+  top: 34px;
+  width: 233px;
+}
+
+.iphone-13-pro-max-staffs .msu-library-portal-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.iphone-13-pro-max-staffs .msu-marawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 9px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 162.75px;
+}
+
+.iphone-13-pro-max-staffs .msu-marawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-iit-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 11.4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 108.5px;
+}
+
+.iphone-13-pro-max-staffs .msu-iit-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-naawan-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 10.6px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 154.84px;
+}
+
+.iphone-13-pro-max-staffs .msu-naawan-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-gen-san-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 143.54px;
+}
+
+.iphone-13-pro-max-staffs .msu-gen-san-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-maguindanao-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 215.87px;
+}
+
+.iphone-13-pro-max-staffs .msu-maguindanao-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-tawi-tawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 176.31px;
+}
+
+.iphone-13-pro-max-staffs .msu-tawi-tawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .msu-buug-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 115.28px;
+}
+
+.iphone-13-pro-max-staffs .msu-buug-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .group-75 {
+  display: flex;
+  flex-direction: column;
+  height: 168px;
+  left: 53px;
+  position: absolute;
+  top: 655px;
+  width: 318px;
+}
+
+.iphone-13-pro-max-staffs .quick-links-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.iphone-13-pro-max-staffs .virtual-learning-environment-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 13px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.iphone-13-pro-max-staffs .virtual-learning-environment-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .faculty-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 10px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.iphone-13-pro-max-staffs .faculty-portal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .student-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 11px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.iphone-13-pro-max-staffs .student-portal-1:hover {
+  color: #060404
+}
+
+.iphone-13-pro-max-staffs .e-journal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 12px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.iphone-13-pro-max-staffs .e-journal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-staffs .group-77 {
+  display: flex;
+  flex-direction: column;
+  height: 34px;
+  left: 48px;
+  position: absolute;
+  top: 971px;
+  width: 360px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-12 {
+  height: 6px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.iphone-13-pro-max-staffs .copyright-2022-min-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.iphone-13-pro-max-staffs .group-73 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 139px;
+  position: absolute;
+  top: 317px;
+  width: 424px;
+}
+
+.iphone-13-pro-max-staffs .campus {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-staffs .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 96px;
+  margin-top: 20px;
+  min-width: 416px;
+}
+
+.iphone-13-pro-max-staffs .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3.0px;
+  min-height: 89px;
+  width: 20px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-13 {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-14 {
+  height: 18px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-15 {
+  height: 19px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-staffs .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 96px;
+  width: 382px;
+}
+
+.iphone-13-pro-max-staffs .text-17 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 12px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-staffs .monday-friday-800-am-500-pm-1 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 15px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-staffs .group-74 {
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  left: 53px;
+  position: absolute;
+  top: 491px;
+  width: 308px;
+}
+
+.iphone-13-pro-max-staffs .msu-gensan-library-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.iphone-13-pro-max-staffs .location-msu-campu-1 {
+  height: 85px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 15px;
+  width: 304px;
+}
+
+.iphone-13-pro-max-staffs .group-76 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 70px;
+  position: absolute;
+  top: 851px;
+  width: 114px;
+}
+
+.iphone-13-pro-max-staffs .connect-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-staffs .flex-row-2 {
+  align-items: center;
+  display: flex;
+  min-width: 94px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-16 {
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-16:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-staffs .rectangle-17 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 13px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.iphone-13-pro-max-staffs .rectangle-17:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-staffs .rectangle-18 {
+  height: 728px;
+  left: 107px;
+  position: absolute;
+  top: 154px;
+  width: 801px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.desktop-library-staffs { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.iphone-13-pro-max-staffs { 
+    display: none;
+   }
+}

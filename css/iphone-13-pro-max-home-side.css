@@ -1,0 +1,124 @@
+/* screen - iphone-13-pro-max-home-side */
+
+.iphone-13-pro-max-home-side {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-home-side .overlap-group {
+  height: 926px;
+  margin-left: -46px;
+  position: relative;
+  width: 474px;
+}
+
+.iphone-13-pro-max-home-side .rectangle-1973 {
+  background-color: var(--seashell);
+  height: 926px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.iphone-13-pro-max-home-side .home {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-home-side .opac {
+  cursor: pointer;
+  left: 231px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-home-side .opac:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-home-side .services {
+  cursor: pointer;
+  left: 214px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 395px;
+  transition: all 0.2s ease;
+  width: 93px;
+}
+
+.iphone-13-pro-max-home-side .services:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-home-side .about-us {
+  cursor: pointer;
+  left: 216px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 457px;
+  transition: all 0.2s ease;
+  width: 89px;
+}
+
+.iphone-13-pro-max-home-side .about-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-home-side .contact-us {
+  cursor: pointer;
+  left: 211px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.iphone-13-pro-max-home-side .contact-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-home-side .group-45 {
+  cursor: pointer;
+  height: 48px;
+  left: 92px;
+  position: absolute;
+  top: 101px;
+  width: 50px;
+}
+
+.iphone-13-pro-max-home-side .rectangle {
+  height: 215px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 215px;
+}
+
+.iphone-13-pro-max-home-side .digital-library-resources {
+  cursor: pointer;
+  left: 142px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  transition: all 0.2s ease;
+  width: 236px;
+}
+
+.iphone-13-pro-max-home-side .digital-library-resources:hover {
+  transform: scale(1.1);
+}

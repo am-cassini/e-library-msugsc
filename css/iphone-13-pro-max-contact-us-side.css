@@ -1,0 +1,235 @@
+/* screen - iphone-13-pro-max-contact-us-side */
+
+.iphone-13-pro-max-contact-us-side {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-contact-us-side .overlap-group {
+  height: 926px;
+  margin-left: -46px;
+  position: relative;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle {
+  height: 240px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 428px;
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1973 {
+  background-color: var(--black);
+  height: 224px;
+  left: 34px;
+  opacity: 0.55;
+  position: absolute;
+  top: 186px;
+  width: 440px;
+}
+
+.iphone-13-pro-max-contact-us-side .mindanao-state-unive {
+  color: var(--red-berry);
+  font-family: var(--font-family-berkshire_swash);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 254px;
+  width: 365px;
+}
+
+.iphone-13-pro-max-contact-us-side .the-official-e-libra {
+  height: 111px;
+  left: 85px;
+  position: absolute;
+  top: 396px;
+  width: 351px;
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1973-1 {
+  background-color: var(--seashell);
+  height: 926px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .place {
+  cursor: pointer;
+  left: 231px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 200px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-contact-us-side .place:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971-1 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 241px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .digital-library-resources {
+  cursor: pointer;
+  left: 142px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  transition: all 0.2s ease;
+  width: 236px;
+}
+
+.iphone-13-pro-max-contact-us-side .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971-2 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 306px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .opac {
+  cursor: pointer;
+  left: 231px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-contact-us-side .opac:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971-3 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 371px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .services {
+  cursor: pointer;
+  left: 214px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 395px;
+  transition: all 0.2s ease;
+  width: 93px;
+}
+
+.iphone-13-pro-max-contact-us-side .services:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971-4 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .about-us {
+  cursor: pointer;
+  left: 216px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 457px;
+  transition: all 0.2s ease;
+  width: 89px;
+}
+
+.iphone-13-pro-max-contact-us-side .about-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1971-5 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 498px;
+  width: 474px;
+}
+
+.iphone-13-pro-max-contact-us-side .contact-us {
+  cursor: pointer;
+  left: 211px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.iphone-13-pro-max-contact-us-side .contact-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-1 {
+  height: 215px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 215px;
+}
+
+.iphone-13-pro-max-contact-us-side .rectangle-2 {
+  cursor: pointer;
+  height: 24px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 31px;
+}
+
+.iphone-13-pro-max-contact-us-side .group-41 {
+  height: 1125px;
+  margin-left: -767px;
+  margin-top: 1367px;
+  width: 1970px;
+}
+
+.iphone-13-pro-max-contact-us-side .group-14 {
+  height: 468px;
+  margin-left: -468px;
+  width: 1926px;
+}

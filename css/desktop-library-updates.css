@@ -1,0 +1,1412 @@
+/* screen - desktop-library-updates */
+
+.desktop-library-updates {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2332px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-library-updates .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 436px;
+  min-width: 101px;
+  position: fixed;
+  top: -14px;
+  z-index: 5;
+}
+
+.desktop-library-updates .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-20@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 99px;
+  padding: 19.6px 15.8px;
+}
+
+.desktop-library-updates .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 41px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.desktop-library-updates .place:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .opac {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 772px;
+  min-width: 99px;
+  position: fixed;
+  top: -14px;
+  z-index: 6;
+}
+
+.desktop-library-updates .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 97px;
+  padding: 30px 20.2px;
+}
+
+.desktop-library-updates .opac-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.desktop-library-updates .opac-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 1007px;
+  min-width: 132px;
+  position: fixed;
+  top: -14px;
+  z-index: 8;
+}
+
+.desktop-library-updates .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 30.3px 11.7px;
+}
+
+.desktop-library-updates .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.desktop-library-updates .about-us:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .contact-us {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 1137px;
+  min-width: 142px;
+  position: fixed;
+  top: -14px;
+  z-index: 9;
+}
+
+.desktop-library-updates .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-5@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 30.3px 12.9px;
+}
+
+.desktop-library-updates .contact-us-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.desktop-library-updates .contact-us-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .opac-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  left: 869px;
+  min-width: 140px;
+  position: fixed;
+  top: -14px;
+  z-index: 10;
+}
+
+.desktop-library-updates .overlap-group5 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-6@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 138px;
+  padding: 30px 22px;
+}
+
+.desktop-library-updates .services-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 28px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-library-updates .services-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .digital-library {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 97px;
+  left: 535px;
+  min-width: 239px;
+  position: fixed;
+  top: -3px;
+  z-index: 7;
+}
+
+.desktop-library-updates .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-9@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  min-width: 237px;
+  padding: 38.0px 12px;
+}
+
+.desktop-library-updates .digital-library-resources {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 21px;
+  transition: all 0.2s ease;
+  width: 207px;
+}
+
+.desktop-library-updates .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.desktop-library-updates .rectangle-1972 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 97px;
+  left: -205px;
+  position: fixed;
+  top: -2px;
+  width: 1846px;
+  z-index: 4;
+}
+
+.desktop-library-updates .msu-logo-1 {
+  cursor: pointer;
+  height: 81px;
+  left: 190px;
+  object-fit: cover;
+  position: fixed;
+  top: 6px;
+  width: 81px;
+  z-index: 11;
+}
+
+.desktop-library-updates .overlap-group8 {
+  height: 437px;
+  margin-top: 99px;
+  position: relative;
+  width: 1730px;
+  z-index: 1;
+}
+
+.desktop-library-updates .group-86 {
+  background-image: url(../img/rectangle-20@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 437px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1730px;
+}
+
+.desktop-library-updates .rectangle-1974 {
+  height: 437px;
+  width: 1730px;
+}
+
+.desktop-library-updates .library-updates {
+  height: 63px;
+  left: 630px;
+  position: absolute;
+  top: 188px;
+  width: 492px;
+}
+
+.desktop-library-updates .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 1187px;
+  margin-left: 14.0px;
+  margin-top: 46px;
+  min-width: 1074px;
+  z-index: 2;
+}
+
+.desktop-library-updates .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1187px;
+  width: 507px;
+}
+
+.desktop-library-updates .rectangle {
+  cursor: pointer;
+  height: 29px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.desktop-library-updates .rectangle:hover {
+  background-color: #000000
+}
+
+.desktop-library-updates .rectangle-1 {
+  height: 335px;
+  margin-top: 23px;
+  object-fit: cover;
+  width: 507px;
+}
+
+.desktop-library-updates .rectangle-2 {
+  height: 333px;
+  margin-top: 58px;
+  object-fit: cover;
+  width: 507px;
+}
+
+.desktop-library-updates .rectangle-3 {
+  height: 335px;
+  margin-top: 74px;
+  object-fit: cover;
+  width: 507px;
+}
+
+.desktop-library-updates .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 75px;
+  margin-top: 3px;
+  min-height: 1023px;
+  width: 492px;
+}
+
+.desktop-library-updates .msu-gsc-advances-to {
+  letter-spacing: 0;
+  line-height: 108px;
+  margin-bottom: -40px;
+  min-height: 68px;
+  white-space: nowrap;
+}
+
+.desktop-library-updates .msu-gsc-advances-to-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: 4px;
+  margin-top: 36px;
+  min-height: 103px;
+  width: 483px;
+}
+
+.desktop-library-updates .overlap-group7 {
+  height: 198px;
+  margin-top: 191px;
+  position: relative;
+  width: 488px;
+}
+
+.desktop-library-updates .in-the-accreditation {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 98px;
+  width: 488px;
+}
+
+.desktop-library-updates .address {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 108px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 470px;
+}
+
+.desktop-library-updates .min-da-holds-educatio {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 260px;
+  min-height: 76px;
+  width: 470px;
+}
+
+.desktop-library-updates .the-mindanao-develop {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 16px;
+  min-height: 75px;
+  width: 492px;
+}
+
+.desktop-library-updates .overlap-group6 {
+  background-image: url(../img/rectangle-123@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 513px;
+  margin-right: 4.0px;
+  margin-top: 113px;
+  position: relative;
+  width: 1854px;
+  z-index: 3;
+}
+
+.desktop-library-updates .rectangle-4 {
+  height: 16px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 20px;
+}
+
+.desktop-library-updates .rectangle-5 {
+  height: 18px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 19px;
+}
+
+.desktop-library-updates .overlap-group9 {
+  height: 468px;
+  left: 390px;
+  position: absolute;
+  top: 0;
+  width: 1422px;
+}
+
+.desktop-library-updates .rectangle-6 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 1048px;
+}
+
+.desktop-library-updates .rectangle-7 {
+  height: 468px;
+  left: 921px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.desktop-library-updates .virtual-learning-environment {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.desktop-library-updates .virtual-learning-environment:hover {
+  color: #000000
+}
+
+.desktop-library-updates .faculty-portal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.desktop-library-updates .faculty-portal:hover {
+  color: #000000
+}
+
+.desktop-library-updates .student-portal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.desktop-library-updates .student-portal:hover {
+  color: #060404
+}
+
+.desktop-library-updates .e-journal {
+  cursor: pointer;
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.desktop-library-updates .e-journal:hover {
+  color: #000000
+}
+
+.desktop-library-updates .quick-links {
+  left: 792px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.desktop-library-updates .rectangle-8 {
+  cursor: pointer;
+  height: 36px;
+  left: 1180px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-library-updates .rectangle-8:hover {
+  background-color: #000000
+}
+
+.desktop-library-updates .rectangle-9 {
+  height: 19px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 19px;
+}
+
+.desktop-library-updates .rectangle-10 {
+  cursor: pointer;
+  height: 36px;
+  left: 1232px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-library-updates .rectangle-10:hover {
+  background-color: #000000
+}
+
+.desktop-library-updates .copyright-2022-min {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 412px;
+  white-space: nowrap;
+  width: 556px;
+}
+
+.desktop-library-updates .msu-library-portal {
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.desktop-library-updates .location-msu-campu {
+  left: 721px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 267px;
+  width: 304px;
+}
+
+.desktop-library-updates .campus-library-directory {
+  left: 719px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.desktop-library-updates .campuslibrarianmsugensaneduph {
+  left: 753px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.desktop-library-updates .text-9 {
+  left: 753px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+  width: 270px;
+}
+
+.desktop-library-updates .monday-friday-800-am-500-pm {
+  left: 754px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.desktop-library-updates .connect {
+  left: 1182px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 263px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.desktop-library-updates .msu-gensan-library {
+  left: 721px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.desktop-library-updates .msu-marawi {
+  cursor: pointer;
+  left: 397px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.desktop-library-updates .msu-marawi:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-iit {
+  cursor: pointer;
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 117px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.desktop-library-updates .msu-iit:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-naawan {
+  cursor: pointer;
+  left: 397px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.desktop-library-updates .msu-naawan:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-gen-san {
+  cursor: pointer;
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.desktop-library-updates .msu-gen-san:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-maguindanao {
+  cursor: pointer;
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 231px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.desktop-library-updates .msu-maguindanao:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-tawi-tawi {
+  cursor: pointer;
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 270px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.desktop-library-updates .msu-tawi-tawi:hover {
+  color: #000000
+}
+
+.desktop-library-updates .msu-buug {
+  cursor: pointer;
+  left: 398px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 309px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.desktop-library-updates .msu-buug:hover {
+  color: #000000
+}
+/* screen - iphone-13-pro-max-library-updates */
+
+.iphone-13-pro-max-library-updates {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3053px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-1977 {
+  background-color: var(--white);
+  height: 104px;
+  left: -169px;
+  position: fixed;
+  top: 0;
+  width: 793px;
+  z-index: 12;
+}
+
+.iphone-13-pro-max-library-updates .frame {
+  cursor: pointer;
+  height: 81px;
+  left: 177px;
+  position: fixed;
+  top: 13px;
+  width: 81px;
+  z-index: 14;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-11 {
+  cursor: pointer;
+  height: 18px;
+  left: 359px;
+  object-fit: cover;
+  position: fixed;
+  top: 47px;
+  width: 26px;
+  z-index: 13;
+}
+
+.iphone-13-pro-max-library-updates .overlap-group3-1 {
+  align-self: flex-start;
+  height: 240px;
+  margin-left: -12px;
+  margin-top: 88px;
+  position: relative;
+  width: 440px;
+  z-index: 3;
+}
+
+.iphone-13-pro-max-library-updates .group-44 {
+  display: flex;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-13-pro-max-library-updates .group-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 440px;
+}
+
+.iphone-13-pro-max-library-updates .overlap-group-1 {
+  height: 240px;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-12 {
+  height: 240px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-1973 {
+  background-color: var(--black);
+  height: 224px;
+  left: 0;
+  opacity: 0.55;
+  position: absolute;
+  top: 16px;
+  width: 440px;
+}
+
+.iphone-13-pro-max-library-updates .library-updates-1 {
+  height: 26px;
+  left: 123px;
+  position: absolute;
+  top: 110px;
+  width: 197px;
+}
+
+.iphone-13-pro-max-library-updates .group-69 {
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-left: 28px;
+  margin-top: 20px;
+  width: 45px;
+  z-index: 4;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-13 {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 11px;
+  margin-top: 10px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 21px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-13:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-library-updates .rectangle-14 {
+  height: 255px;
+  margin-left: 7.0px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 357px;
+  z-index: 5;
+}
+
+.iphone-13-pro-max-library-updates .msu-gsc-advances-to-2 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 2.0px;
+  margin-top: 20px;
+  min-height: 63px;
+  width: 352px;
+  z-index: 2;
+}
+
+.iphone-13-pro-max-library-updates .msu-gsc-advances-to-3 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 7.0px;
+  margin-top: 10px;
+  min-height: 135px;
+  width: 357px;
+  z-index: 1;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-15 {
+  height: 260px;
+  margin-left: 8.0px;
+  margin-top: 35px;
+  object-fit: cover;
+  width: 354px;
+  z-index: 6;
+}
+
+.iphone-13-pro-max-library-updates .min-da-holds-educatio-1 {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-right: 21.0px;
+  margin-top: 15px;
+  min-height: 59px;
+  width: 329px;
+  z-index: 10;
+}
+
+.iphone-13-pro-max-library-updates .the-mindanao-develop-1 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 4.0px;
+  margin-top: 25px;
+  min-height: 163px;
+  width: 354px;
+  z-index: 9;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-16 {
+  height: 261px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 354px;
+  z-index: 7;
+}
+
+.iphone-13-pro-max-library-updates .overlap-group1-1 {
+  height: 210px;
+  margin-right: 13.0px;
+  margin-top: 17px;
+  position: relative;
+  width: 341px;
+  z-index: 8;
+}
+
+.iphone-13-pro-max-library-updates .in-the-accreditation-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 81px;
+  width: 341px;
+}
+
+.iphone-13-pro-max-library-updates .address-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.iphone-13-pro-max-library-updates .overlap-group2-1 {
+  align-self: flex-start;
+  height: 1049px;
+  margin-top: 23px;
+  position: relative;
+  width: 908px;
+  z-index: 11;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-17 {
+  height: 1049px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.iphone-13-pro-max-library-updates .group-72 {
+  display: flex;
+  flex-direction: column;
+  height: 244px;
+  left: 52px;
+  position: absolute;
+  top: 34px;
+  width: 233px;
+}
+
+.iphone-13-pro-max-library-updates .msu-library-portal-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.iphone-13-pro-max-library-updates .msu-marawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 9px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 162.75px;
+}
+
+.iphone-13-pro-max-library-updates .msu-marawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-iit-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 11.4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 108.5px;
+}
+
+.iphone-13-pro-max-library-updates .msu-iit-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-naawan-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 10.6px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 154.84px;
+}
+
+.iphone-13-pro-max-library-updates .msu-naawan-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-gen-san-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 143.54px;
+}
+
+.iphone-13-pro-max-library-updates .msu-gen-san-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-maguindanao-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 215.87px;
+}
+
+.iphone-13-pro-max-library-updates .msu-maguindanao-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-tawi-tawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 176.31px;
+}
+
+.iphone-13-pro-max-library-updates .msu-tawi-tawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .msu-buug-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 115.28px;
+}
+
+.iphone-13-pro-max-library-updates .msu-buug-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .group-75 {
+  display: flex;
+  flex-direction: column;
+  height: 168px;
+  left: 53px;
+  position: absolute;
+  top: 655px;
+  width: 318px;
+}
+
+.iphone-13-pro-max-library-updates .quick-links-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.iphone-13-pro-max-library-updates .virtual-learning-environment-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 13px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.iphone-13-pro-max-library-updates .virtual-learning-environment-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .faculty-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 10px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.iphone-13-pro-max-library-updates .faculty-portal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .student-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 11px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.iphone-13-pro-max-library-updates .student-portal-1:hover {
+  color: #060404
+}
+
+.iphone-13-pro-max-library-updates .e-journal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 12px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.iphone-13-pro-max-library-updates .e-journal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-library-updates .group-77 {
+  display: flex;
+  flex-direction: column;
+  height: 34px;
+  left: 48px;
+  position: absolute;
+  top: 971px;
+  width: 360px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-18 {
+  height: 6px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.iphone-13-pro-max-library-updates .copyright-2022-min-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.iphone-13-pro-max-library-updates .group-73 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 139px;
+  position: absolute;
+  top: 317px;
+  width: 424px;
+}
+
+.iphone-13-pro-max-library-updates .campus {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-library-updates .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 96px;
+  margin-top: 20px;
+  min-width: 416px;
+}
+
+.iphone-13-pro-max-library-updates .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3.0px;
+  min-height: 89px;
+  width: 20px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-19 {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-20 {
+  height: 18px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-21 {
+  height: 19px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-library-updates .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 96px;
+  width: 382px;
+}
+
+.iphone-13-pro-max-library-updates .text-18 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 12px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-library-updates .monday-friday-800-am-500-pm-1 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 15px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-library-updates .group-74 {
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  left: 53px;
+  position: absolute;
+  top: 491px;
+  width: 308px;
+}
+
+.iphone-13-pro-max-library-updates .msu-gensan-library-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.iphone-13-pro-max-library-updates .location-msu-campu-1 {
+  height: 85px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 15px;
+  width: 304px;
+}
+
+.iphone-13-pro-max-library-updates .group-76 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 70px;
+  position: absolute;
+  top: 851px;
+  width: 114px;
+}
+
+.iphone-13-pro-max-library-updates .connect-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-library-updates .flex-row-2 {
+  align-items: center;
+  display: flex;
+  min-width: 94px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-22 {
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-22:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-library-updates .rectangle-23 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 13px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.iphone-13-pro-max-library-updates .rectangle-23:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-library-updates .rectangle-24 {
+  height: 728px;
+  left: 107px;
+  position: absolute;
+  top: 154px;
+  width: 801px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.desktop-library-updates { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.iphone-13-pro-max-library-updates { 
+    display: none;
+   }
+}

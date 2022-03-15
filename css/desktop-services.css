@@ -1,0 +1,1238 @@
+/* screen - desktop-services */
+
+.desktop-services {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2398px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-services .rectangle-1971 {
+  height: 108px;
+  left: 436px;
+  position: fixed;
+  top: -12px;
+  width: 99px;
+  z-index: 7;
+}
+
+.desktop-services .rectangle-1971-1 {
+  height: 108px;
+  left: 772px;
+  position: fixed;
+  top: -12px;
+  width: 97px;
+  z-index: 9;
+}
+
+.desktop-services .rectangle-1971-2 {
+  height: 108px;
+  left: 1007px;
+  position: fixed;
+  top: -12px;
+  width: 130px;
+  z-index: 13;
+}
+
+.desktop-services .rectangle-1971-3 {
+  height: 108px;
+  left: 1137px;
+  position: fixed;
+  top: -12px;
+  width: 140px;
+  z-index: 15;
+}
+
+.desktop-services .rectangle-1971-4 {
+  height: 108px;
+  left: 869px;
+  position: fixed;
+  top: -12px;
+  width: 138px;
+  z-index: 17;
+}
+
+.desktop-services .rectangle-1971-5 {
+  height: 97px;
+  left: 535px;
+  position: fixed;
+  top: -1px;
+  width: 237px;
+  z-index: 11;
+}
+
+.desktop-services .rectangle-1972 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 97px;
+  left: -145px;
+  position: fixed;
+  top: 0;
+  width: 1714px;
+  z-index: 6;
+}
+
+.desktop-services .msu-logo-1 {
+  cursor: pointer;
+  height: 81px;
+  left: 190px;
+  object-fit: cover;
+  position: fixed;
+  top: 8px;
+  width: 81px;
+  z-index: 19;
+}
+
+.desktop-services .place {
+  cursor: pointer;
+  left: 462px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 36px;
+  transition: all 0.2s ease;
+  width: 57px;
+  z-index: 8;
+}
+
+.desktop-services .place:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .digital-library-resources {
+  cursor: pointer;
+  left: 553px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 37px;
+  transition: all 0.2s ease;
+  width: 207px;
+  z-index: 12;
+}
+
+.desktop-services .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .opac {
+  cursor: pointer;
+  left: 798px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 38px;
+  transition: all 0.2s ease;
+  width: 51px;
+  z-index: 10;
+}
+
+.desktop-services .opac:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .about-us {
+  cursor: pointer;
+  left: 1035px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 38px;
+  transition: all 0.2s ease;
+  width: 90px;
+  z-index: 14;
+}
+
+.desktop-services .about-us:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .services {
+  cursor: pointer;
+  left: 904px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 38px;
+  transition: all 0.2s ease;
+  width: 81px;
+  z-index: 18;
+}
+
+.desktop-services .services:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .contact-us {
+  cursor: pointer;
+  left: 1163px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 38px;
+  transition: all 0.2s ease;
+  width: 101px;
+  z-index: 16;
+}
+
+.desktop-services .contact-us:hover {
+  transform: scale(1.1);
+}
+
+.desktop-services .overlap-group2 {
+  height: 488px;
+  margin-left: 2.0px;
+  margin-top: 97px;
+  position: relative;
+  width: 1924px;
+  z-index: 1;
+}
+
+.desktop-services .group-80 {
+  background-image: url(../img/rectangle-20@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 437px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 1730px;
+}
+
+.desktop-services .rectangle-1975 {
+  height: 437px;
+  width: 1730px;
+}
+
+.desktop-services .services-1 {
+  height: 48px;
+  left: 837px;
+  position: absolute;
+  top: 194px;
+  width: 250px;
+}
+
+.desktop-services .group-22 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 435px;
+  width: 1924px;
+}
+
+.desktop-services .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 10.5px;
+  margin-top: 94px;
+  min-width: 1070px;
+  z-index: 3;
+}
+
+.desktop-services .x8608-converted-1 {
+  height: 440px;
+  width: 540px;
+}
+
+.desktop-services .x1-adequate-service-h {
+  height: 477px;
+  margin-left: 32px;
+  width: 499px;
+}
+
+.desktop-services .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 634px;
+  margin-top: 52px;
+  min-width: 1060px;
+  z-index: 2;
+}
+
+.desktop-services .x5-book-reservation-t {
+  align-self: flex-end;
+  height: 616px;
+  width: 497px;
+}
+
+.desktop-services .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/group-35@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 74px;
+  min-height: 626px;
+  padding: 24px 165px;
+  width: 489px;
+}
+
+.desktop-services .starbooks {
+  height: 16px;
+  margin-right: 7.5px;
+  margin-top: 261px;
+  width: 88px;
+}
+
+.desktop-services .digital-library {
+  height: 20px;
+  margin-top: 281px;
+  width: 121px;
+}
+
+.desktop-services .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0.5px;
+  margin-top: 60px;
+  min-width: 1058px;
+  z-index: 4;
+}
+
+.desktop-services .opac-1 {
+  cursor: pointer;
+  height: 16px;
+  transition: all 0.2s ease;
+  width: 76px;
+}
+
+.desktop-services .opac-1:hover {
+  color: #000000
+}
+
+.desktop-services .about-us-1 {
+  cursor: pointer;
+  height: 16px;
+  margin-left: 876px;
+  transition: all 0.2s ease;
+  width: 107px;
+}
+
+.desktop-services .about-us-1:hover {
+  color: #000000
+}
+
+.desktop-services .overlap-group {
+  align-self: flex-start;
+  height: 493px;
+  margin-left: -141px;
+  margin-top: 31px;
+  position: relative;
+  width: 1744px;
+  z-index: 5;
+}
+
+.desktop-services .rectangle {
+  height: 493px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1727px;
+}
+
+.desktop-services .rectangle-1 {
+  height: 16px;
+  left: 651px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 20px;
+}
+
+.desktop-services .rectangle-2 {
+  height: 18px;
+  left: 651px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 19px;
+}
+
+.desktop-services .rectangle-3 {
+  height: 6px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 1048px;
+}
+
+.desktop-services .rectangle-4 {
+  cursor: pointer;
+  height: 36px;
+  left: 1112px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-services .rectangle-4:hover {
+  background-color: #000000
+}
+
+.desktop-services .rectangle-5 {
+  height: 468px;
+  left: 1243px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.desktop-services .rectangle-6 {
+  height: 19px;
+  left: 651px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 19px;
+}
+
+.desktop-services .rectangle-7 {
+  cursor: pointer;
+  height: 36px;
+  left: 1164px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.desktop-services .rectangle-7:hover {
+  background-color: #000000
+}
+
+.desktop-services .copyright-2022-min {
+  left: 598px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 412px;
+  white-space: nowrap;
+  width: 556px;
+}
+
+.desktop-services .msu-library-portal {
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.desktop-services .location-msu-campu {
+  left: 653px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 267px;
+  width: 304px;
+}
+
+.desktop-services .campus-library-directory {
+  left: 651px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.desktop-services .campuslibrarianmsugensaneduph {
+  left: 685px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.desktop-services .text-6 {
+  left: 685px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+  width: 270px;
+}
+
+.desktop-services .monday-friday-800-am-500-pm {
+  left: 686px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.desktop-services .virtual-learning-environment {
+  cursor: pointer;
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.desktop-services .virtual-learning-environment:hover {
+  color: #000000
+}
+
+.desktop-services .faculty-portal {
+  cursor: pointer;
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 115px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.desktop-services .faculty-portal:hover {
+  color: #000000
+}
+
+.desktop-services .student-portal {
+  cursor: pointer;
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.desktop-services .student-portal:hover {
+  color: #060404
+}
+
+.desktop-services .e-journal {
+  cursor: pointer;
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.desktop-services .e-journal:hover {
+  color: #000000
+}
+
+.desktop-services .connect {
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 263px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.desktop-services .quick-links {
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.desktop-services .msu-gensan-library {
+  left: 653px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.desktop-services .msu-marawi {
+  cursor: pointer;
+  left: 329px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.desktop-services .msu-marawi:hover {
+  color: #000000
+}
+
+.desktop-services .msu-iit {
+  cursor: pointer;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 117px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.desktop-services .msu-iit:hover {
+  color: #000000
+}
+
+.desktop-services .msu-naawan {
+  cursor: pointer;
+  left: 329px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 153px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.desktop-services .msu-naawan:hover {
+  color: #000000
+}
+
+.desktop-services .msu-gen-san {
+  cursor: pointer;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 192px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.desktop-services .msu-gen-san:hover {
+  color: #000000
+}
+
+.desktop-services .msu-maguindanao {
+  cursor: pointer;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 231px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.desktop-services .msu-maguindanao:hover {
+  color: #000000
+}
+
+.desktop-services .msu-tawi-tawi {
+  cursor: pointer;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 270px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.desktop-services .msu-tawi-tawi:hover {
+  color: #000000
+}
+
+.desktop-services .msu-buug {
+  cursor: pointer;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 309px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.desktop-services .msu-buug:hover {
+  color: #000000
+}
+/* screen - iphone-13-pro-max-services */
+
+.iphone-13-pro-max-services {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3708px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-services .rectangle-1977 {
+  background-color: var(--white);
+  height: 104px;
+  left: -144px;
+  position: fixed;
+  top: 0;
+  width: 711px;
+  z-index: 8;
+}
+
+.iphone-13-pro-max-services .frame {
+  cursor: pointer;
+  height: 81px;
+  left: 177px;
+  position: fixed;
+  top: 13px;
+  width: 81px;
+  z-index: 10;
+}
+
+.iphone-13-pro-max-services .rectangle-8 {
+  cursor: pointer;
+  height: 18px;
+  left: 359px;
+  object-fit: cover;
+  position: fixed;
+  top: 47px;
+  width: 26px;
+  z-index: 9;
+}
+
+.iphone-13-pro-max-services .group-container {
+  height: 312px;
+  margin-top: 88px;
+  position: relative;
+  width: 520px;
+  z-index: 1;
+}
+
+.iphone-13-pro-max-services .group-44 {
+  height: 240px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-13-pro-max-services .group-47 {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 225px;
+  width: 520px;
+}
+
+.iphone-13-pro-max-services .x8608-converted-1-1 {
+  height: 247px;
+  margin-left: 1.0px;
+  margin-top: 23px;
+  width: 337px;
+  z-index: 4;
+}
+
+.iphone-13-pro-max-services .adequate-service-hou {
+  height: 521px;
+  margin-right: 3.0px;
+  margin-top: 28px;
+  width: 356px;
+  z-index: 3;
+}
+
+.iphone-13-pro-max-services .group-35 {
+  align-self: flex-start;
+  height: 629px;
+  margin-left: -66px;
+  margin-top: 28px;
+  width: 533px;
+  z-index: 5;
+}
+
+.iphone-13-pro-max-services .x5-book-reservation-t-1 {
+  height: 641px;
+  margin-right: 3.0px;
+  margin-top: 40px;
+  width: 369px;
+  z-index: 2;
+}
+
+.iphone-13-pro-max-services .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 52px;
+  min-width: 362px;
+  z-index: 6;
+}
+
+.iphone-13-pro-max-services .opac-2 {
+  cursor: pointer;
+  height: 16px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.iphone-13-pro-max-services .opac-2:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .about-us-2 {
+  cursor: pointer;
+  height: 16px;
+  margin-left: 180px;
+  transition: all 0.2s ease;
+  width: 107px;
+}
+
+.iphone-13-pro-max-services .about-us-2:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .overlap-group-1 {
+  align-self: flex-start;
+  height: 1049px;
+  margin-top: 34px;
+  position: relative;
+  width: 908px;
+  z-index: 7;
+}
+
+.iphone-13-pro-max-services .rectangle-9 {
+  height: 1049px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.iphone-13-pro-max-services .group-72 {
+  display: flex;
+  flex-direction: column;
+  height: 244px;
+  left: 52px;
+  position: absolute;
+  top: 34px;
+  width: 233px;
+}
+
+.iphone-13-pro-max-services .msu-library-portal-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.iphone-13-pro-max-services .msu-marawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 9px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 162.75px;
+}
+
+.iphone-13-pro-max-services .msu-marawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-iit-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 11.4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 108.5px;
+}
+
+.iphone-13-pro-max-services .msu-iit-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-naawan-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 10.6px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 154.84px;
+}
+
+.iphone-13-pro-max-services .msu-naawan-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-gen-san-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 143.54px;
+}
+
+.iphone-13-pro-max-services .msu-gen-san-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-maguindanao-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 215.87px;
+}
+
+.iphone-13-pro-max-services .msu-maguindanao-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-tawi-tawi-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 176.31px;
+}
+
+.iphone-13-pro-max-services .msu-tawi-tawi-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .msu-buug-1 {
+  cursor: pointer;
+  height: 18.71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1.1px;
+  margin-top: 13.0px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 115.28px;
+}
+
+.iphone-13-pro-max-services .msu-buug-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .group-75 {
+  display: flex;
+  flex-direction: column;
+  height: 168px;
+  left: 53px;
+  position: absolute;
+  top: 655px;
+  width: 318px;
+}
+
+.iphone-13-pro-max-services .quick-links-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.iphone-13-pro-max-services .virtual-learning-environment-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 13px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.iphone-13-pro-max-services .virtual-learning-environment-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .faculty-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 10px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.iphone-13-pro-max-services .faculty-portal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .student-portal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 11px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.iphone-13-pro-max-services .student-portal-1:hover {
+  color: #060404
+}
+
+.iphone-13-pro-max-services .e-journal-1 {
+  cursor: pointer;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 12px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.iphone-13-pro-max-services .e-journal-1:hover {
+  color: #000000
+}
+
+.iphone-13-pro-max-services .group-77 {
+  display: flex;
+  flex-direction: column;
+  height: 34px;
+  left: 48px;
+  position: absolute;
+  top: 971px;
+  width: 360px;
+}
+
+.iphone-13-pro-max-services .rectangle-10 {
+  height: 6px;
+  object-fit: cover;
+  width: 334px;
+}
+
+.iphone-13-pro-max-services .copyright-2022-min-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.iphone-13-pro-max-services .group-73 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 139px;
+  position: absolute;
+  top: 317px;
+  width: 424px;
+}
+
+.iphone-13-pro-max-services .campus {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-services .flex-row-4 {
+  align-items: center;
+  display: flex;
+  height: 96px;
+  margin-top: 20px;
+  min-width: 416px;
+}
+
+.iphone-13-pro-max-services .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3.0px;
+  min-height: 89px;
+  width: 20px;
+}
+
+.iphone-13-pro-max-services .rectangle-11 {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.iphone-13-pro-max-services .rectangle-12 {
+  height: 18px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-services .rectangle-13 {
+  height: 19px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.iphone-13-pro-max-services .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 96px;
+  width: 382px;
+}
+
+.iphone-13-pro-max-services .text-3 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 12px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-services .monday-friday-800-am-500-pm-1 {
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 1px;
+  margin-top: 15px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-services .group-74 {
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  left: 53px;
+  position: absolute;
+  top: 491px;
+  width: 308px;
+}
+
+.iphone-13-pro-max-services .msu-gensan-library-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.iphone-13-pro-max-services .location-msu-campu-1 {
+  height: 85px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: 15px;
+  width: 304px;
+}
+
+.iphone-13-pro-max-services .group-76 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 70px;
+  position: absolute;
+  top: 851px;
+  width: 114px;
+}
+
+.iphone-13-pro-max-services .connect-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.iphone-13-pro-max-services .flex-row-5 {
+  align-items: center;
+  display: flex;
+  min-width: 94px;
+}
+
+.iphone-13-pro-max-services .rectangle-14 {
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.iphone-13-pro-max-services .rectangle-14:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-services .rectangle-15 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 13px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.iphone-13-pro-max-services .rectangle-15:hover {
+  background-color: #000000
+}
+
+.iphone-13-pro-max-services .rectangle-16 {
+  height: 728px;
+  left: 107px;
+  position: absolute;
+  top: 154px;
+  width: 801px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.desktop-services { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.iphone-13-pro-max-services { 
+    display: none;
+   }
+}

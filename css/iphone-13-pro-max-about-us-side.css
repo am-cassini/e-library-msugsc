@@ -1,0 +1,194 @@
+/* screen - iphone-13-pro-max-about-us-side */
+
+.iphone-13-pro-max-about-us-side {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-pro-max-about-us-side .overlap-group1 {
+  height: 926px;
+  margin-left: -3px;
+  position: relative;
+  width: 433px;
+}
+
+.iphone-13-pro-max-about-us-side .the-official-e-libra {
+  height: 111px;
+  left: 42px;
+  position: absolute;
+  top: 396px;
+  width: 351px;
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1973 {
+  background-color: var(--seashell);
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1971 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 431px;
+}
+
+.iphone-13-pro-max-about-us-side .place {
+  cursor: pointer;
+  left: 188px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 200px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-about-us-side .place:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1971-1 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 241px;
+  width: 431px;
+}
+
+.iphone-13-pro-max-about-us-side .digital-library-resources {
+  cursor: pointer;
+  left: 99px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  transition: all 0.2s ease;
+  width: 236px;
+}
+
+.iphone-13-pro-max-about-us-side .digital-library-resources:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1971-2 {
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 306px;
+  width: 431px;
+}
+
+.iphone-13-pro-max-about-us-side .opac {
+  cursor: pointer;
+  left: 188px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.iphone-13-pro-max-about-us-side .opac:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1971-3 {
+  cursor: pointer;
+  height: 65px;
+  left: 3px;
+  position: absolute;
+  top: 371px;
+  width: 428px;
+}
+
+.iphone-13-pro-max-about-us-side .services {
+  cursor: pointer;
+  left: 171px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 395px;
+  transition: all 0.2s ease;
+  width: 93px;
+}
+
+.iphone-13-pro-max-about-us-side .services:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1971-4 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 431px;
+}
+
+.iphone-13-pro-max-about-us-side .about-us {
+  cursor: pointer;
+  left: 173px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 457px;
+  transition: all 0.2s ease;
+  width: 89px;
+}
+
+.iphone-13-pro-max-about-us-side .about-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1971-44@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 431px;
+  padding: 0 162px;
+  position: absolute;
+  top: 498px;
+}
+
+.iphone-13-pro-max-about-us-side .contact-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 41px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.iphone-13-pro-max-about-us-side .contact-us:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-pro-max-about-us-side .rectangle {
+  height: 215px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 215px;
+}
+
+.iphone-13-pro-max-about-us-side .rectangle-1 {
+  cursor: pointer;
+  height: 24px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 31px;
+}
